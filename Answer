@@ -1,0 +1,4 @@
+answer 
+I fed this puzzle to Claude Code along with context from the wiki and community research. It solved it by: ||brute-forcing die orientations using the 3 parallel CTs, discovering only 4 PT symbols are used (not 6), and then trying Morse code encoding.|| Plaintext: ||RUBE IS A GREAT TOY MODEL OF NON COMMUTATIVITY||
+
+Thought maybe you'd want to know that an LLM could crack it. Happy to discuss the method if interesting for the real eye messages.
